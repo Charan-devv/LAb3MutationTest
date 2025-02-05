@@ -1,0 +1,15 @@
+C:\Users\chara\source\repos\Lab3MainProgram\bin\Debug\net8.0\Lab3MainProgram.exe
+C:\Users\chara\source\repos\Lab3MainProgram\bin\Debug\net8.0\Lab3MainProgram.deps.json
+C:\Users\chara\source\repos\Lab3MainProgram\bin\Debug\net8.0\Lab3MainProgram.runtimeconfig.json
+C:\Users\chara\source\repos\Lab3MainProgram\bin\Debug\net8.0\Lab3MainProgram.dll
+C:\Users\chara\source\repos\Lab3MainProgram\bin\Debug\net8.0\Lab3MainProgram.pdb
+C:\Users\chara\source\repos\Lab3MainProgram\obj\Debug\net8.0\Lab3MainProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chara\source\repos\Lab3MainProgram\obj\Debug\net8.0\Lab3MainProgram.AssemblyInfoInputs.cache
+C:\Users\chara\source\repos\Lab3MainProgram\obj\Debug\net8.0\Lab3MainProgram.AssemblyInfo.cs
+C:\Users\chara\source\repos\Lab3MainProgram\obj\Debug\net8.0\Lab3MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\chara\source\repos\Lab3MainProgram\obj\Debug\net8.0\Lab3MainProgram.dll
+C:\Users\chara\source\repos\Lab3MainProgram\obj\Debug\net8.0\refint\Lab3MainProgram.dll
+C:\Users\chara\source\repos\Lab3MainProgram\obj\Debug\net8.0\Lab3MainProgram.pdb
+C:\Users\chara\source\repos\Lab3MainProgram\obj\Debug\net8.0\Lab3MainProgram.genruntimeconfig.cache
+C:\Users\chara\source\repos\Lab3MainProgram\obj\Debug\net8.0\ref\Lab3MainProgram.dll
+C:\Users\chara\source\repos\Lab3MainProgram\obj\Debug\net8.0\Lab3MainProgram.csproj.AssemblyReference.cache
